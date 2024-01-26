@@ -583,6 +583,8 @@ Header Style
     top: 15px;
     right: 70px;
   }
+
+
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
     color: #22333B!important;
@@ -1385,7 +1387,7 @@ Single Page Style
   display: block;
   margin: 20px 0px;
   font-size: 14px;
-  color: #0071f8;
+  color: #ffffff;
 }
 
 .single-product ul li:last-child {
